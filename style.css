@@ -830,7 +830,7 @@
     }
 
     .hero .container .content svg text {
-        font-size: clamp(16px, 4.5vw, 32px);
+        font-size: clamp(100px, 27vw, 230px);
     }
 
     .hero .container .content button {
